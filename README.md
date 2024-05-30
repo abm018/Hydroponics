@@ -9,3 +9,6 @@ Yet to complete!!!
             2. To identify how much nutrient is lacking.
             3. To fit a model using logistic regression to predict how much macro/micro-nutrient the plant should take in a daily/weekly basis.
 
+      To-do
+      ------
+            1. To identify nutrient uptake of tomato
